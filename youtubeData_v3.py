@@ -39,7 +39,7 @@ import os, shutil
 
 from main_script_v5 import mainScript
 
-
+#v3
 
 CLIENT_SECRETS_FILE = "client_secret.json" # for more information   https://python.gotrained.com/youtube-api-extracting-comments/
 SCOPES = ['https://www.googleapis.com/auth/youtube.force-ssl']
