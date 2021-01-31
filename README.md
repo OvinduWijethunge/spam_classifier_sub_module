@@ -3,7 +3,7 @@ This is sub module project for hate content filetring project (4th year research
 
 ### Prerequisites
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
-You must have Scikit Learn,numpy,nltk, Pandas (for Machine Leraning Model) and Flask (for API) installed.
+
 
 ### Project Structure
 This project has four major parts :
