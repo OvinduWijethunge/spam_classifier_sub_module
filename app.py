@@ -26,7 +26,7 @@ def predict():
     #final_features = [np.array(int_features)]
     val = id[0] 
     str_val = str(val)
-    main_call(str_val)
+    #main_call(str_val)
     
     df = pd.read_csv('data.csv')
     df = df.drop('comment_id',axis =1)
